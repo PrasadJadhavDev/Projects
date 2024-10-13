@@ -1,0 +1,61 @@
+﻿@model Product_Inventory_Management_System.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+<head>
+    <link rel="stylesheet" href="~/css/Common.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container2 mt-5">
+        <h2 class="mb-4">Create New Product</h2>
+
+        <form asp-action="Create" method="post" class="border p-4 shadow-sm rounded bg-light" id="productForm">
+            @Html.AntiForgeryToken()
+
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" placeholder="Enter product name" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+                <span class="text-danger" id="nameError"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea asp-for="Description" class="form-control" placeholder="Enter product description" required></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Price" class="form-label"></label>
+                <input asp-for="Price" class="form-control" type="number" step="0.01" placeholder="Enter product price" required />
+                <span asp-validation-for="Price" class="text-danger" id="priceError"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Category" class="form-label"></label>
+                <input asp-for="Category" class="form-control" placeholder="Enter product category" required />
+                <span asp-validation-for="Category" class="text-danger"></span>
+                <span class="text-danger" id="categoryError"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="StockQuantity" class="form-label"></label>
+                <input asp-for="StockQuantity" class="form-control" type="number" placeholder="Enter stock quantity" required />
+                <span asp-validation-for="StockQuantity" class="text-danger" id="stockError"></span>
+            </div>
+
+            <div class="d-flex justify-content-between mt-4">
+                <button type="submit" class="btn btn-primary"><i class="fas fa-save"></i> Create</button>
+                <a href="@Url.Action("Index", "Product")" class="btn btn-secondary"><i class="fas fa-times"></i> Cancel</a>
+            </div>
+        </form>
+    </div>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+    <script src="~/js/validation.js"></script>
+</body>

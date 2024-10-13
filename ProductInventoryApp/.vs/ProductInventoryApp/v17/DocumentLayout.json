@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet_Training\\ProductInventoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\wwwroot\\css\\common.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\wwwroot\\css\\common.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|d:\\dotnet_training\\productinventoryapp\\product inventory management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CED2C4-A5E7-4785-9C39-1765258763B0}|Product Inventory Management System\\Product Inventory Management System.csproj|solutionrelative:product inventory management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Program.cs",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Program.cs",
+              "RelativeToolTip": "Product Inventory Management System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:10:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Models\\PaginationModel.cs",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Product Inventory Management System\\Models\\PaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:00:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product Inventory Management System\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAiwGsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:39:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Product Inventory Management System\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:32:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Product Inventory Management System\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:29:38.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Product Inventory Management System\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T18:27:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.css",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\Index.css",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\wwwroot\\css\\Index.css",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\Index.css",
+              "RelativeToolTip": "Product Inventory Management System\\wwwroot\\css\\Index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T18:27:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Common.css",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\Common.css",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\wwwroot\\css\\Common.css",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\css\\Common.css",
+              "RelativeToolTip": "Product Inventory Management System\\wwwroot\\css\\Common.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T18:27:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Product Inventory Management System\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T18:27:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product Inventory Management System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:27:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Product Inventory Management System\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:24:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Product Inventory Management System\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:25:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Product Inventory Management System\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:24:09.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product Inventory Management System\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Dotnet_Training\\ProductInventoryApp\\Product Inventory Management System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product Inventory Management System\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswH8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:15:15.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
